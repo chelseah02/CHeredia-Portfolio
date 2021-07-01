@@ -60,7 +60,8 @@ html {
     margin-top: 0px;
   }
   .navbar {
-    background-color: #673147 !important;
+    background-color: #e07da5;
+    color: black;
   }
   .navbar > li > .dropdown-menu {
     background-color: #673147 !important;
@@ -68,7 +69,7 @@ html {
   nav a:hover {
     /*background-color: #4e2636 !important; */
     opacity: 0.5;
-    color: seashell !important;
+    color: white !important;
   }
   nav a:window-inactive {
     /*background-color: #4e2636 !important; */
@@ -194,12 +195,12 @@ html {
     font-weight : bold;
   }
   .org-text {
-    color: rgb(255, 123, 0);
+    color: rgb(216, 255, 108);
     font-weight: bold;
   }
   .org-subtext {
     /*color: rgb(134, 165, 255); */
-    color:rgb(159, 148, 233);
+    color:rgb(187, 224, 85);
     font-weight: bolder;
   }
   .contact-font {
