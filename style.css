@@ -124,6 +124,7 @@ html {
     border-radius: 20px;
     opacity: 1;
     overflow: hidden;
+    height: 240px !important;
 }
   .col-sm-6 {
       float: left !important;
@@ -173,7 +174,7 @@ html {
  }
  .card-skills {
    position: absolute;
-   bottom: 244px;
+   bottom: 261px;
    left: 540px;
    right: 20px !important;
  }
