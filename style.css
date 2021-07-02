@@ -22,6 +22,10 @@ html {
     height: 100vh;
     background-color: rosybrown;
   }
+  #projects {
+    height: 100vh;
+    background-color: #e6bcb4;
+  }
   #contact1 {
     height: 100vh;
     background-image: url("Contact.webp");
