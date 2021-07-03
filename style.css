@@ -293,7 +293,7 @@ html {
     text-align: center;
     font-size: 0.9rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    background-color: rgb(238, 121, 141) !important;
+  
   }
   .btn-social {
     background-color: rgb(224, 62, 89) !important;
@@ -305,4 +305,8 @@ html {
 
   .git-button {
     height: 35px;
+  }
+
+  footer {
+    background-color: rgb(238, 121, 141) !important
   }
