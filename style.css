@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 html {
     scroll-behavior: smooth;
   }
@@ -235,4 +236,73 @@ html {
     /*color: seashell !important;*/
     font-weight: light;
     font-family: 'Raleway', serif;
+  }
+  .site-footer .icon {
+    font-size: 20px;
+  }
+  
+  .site-footer .love .icon {
+    font-size: 12px;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: #673147 !important  ;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .footer-text {
+  color: #666;
+  font-size: 12px;
+  display: block;
+  position: absolute;
+  bottom: 10px;
+  position: absolute;
+  width: 90%;
+  left: 50%;
+  top: 45%;
+  bottom: auto;
+  right: auto;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  }
+  .footer-link {
+    color: #000000;
+    text-decoration: none;
+  }
+  .fa {
+    color: #E90606;
+    margin: 0 3px;
+    font-size: 10px;
+    animation: pound .35s infinite alternate;
+    -webkit-animation: pound .35s infinite alternate;
+  }
+  /*
+@-webkit-keyframes pound
+  to
+    transform: scale(1.1)
+
+
+@keyframes pound
+  to
+    transform: scale(1.1)
+  }*/
+
+  .footer-style {
+    text-align: center;
+    font-size: 0.9rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    background-color: rgb(238, 121, 141) !important;
+  }
+  .btn-social {
+    background-color: rgb(224, 62, 89) !important;
+  }
+
+  .footer-txt {
+    font-size: large;
+  }
+
+  .git-button {
+    height: 35px;
   }
